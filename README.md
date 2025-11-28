@@ -64,16 +64,21 @@ http://127.0.0.1:5000/
 📊 Output Preview
 1️⃣ EMA Trend Charts (20, 50)
 
+![WhatsApp Image 2025-11-28 at 12 31 02_7153819b](https://github.com/user-attachments/assets/fedfd2af-82f3-413e-848e-2d2d97975efd)
+
+
 📌 Automatically generated after prediction
-(Insert screenshot here)
+
 
 2️⃣ EMA Trend Charts (100, 200)
 
-(Insert screenshot here)
+![WhatsApp Image 2025-11-28 at 12 31 03_6726ec4b](https://github.com/user-attachments/assets/7d2fb514-c663-4e91-a70b-16101093845a)
+
 
 3️⃣ Actual vs Predicted Stock Price
 
-(Insert screenshot here)
+![WhatsApp Image 2025-11-28 at 12 31 02_0d694e91](https://github.com/user-attachments/assets/0fb65fb8-073f-43b2-8ee8-8a765ee08dcc)
+
 
 🧩 How the Model Works
 
